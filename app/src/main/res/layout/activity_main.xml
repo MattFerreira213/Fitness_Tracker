@@ -12,6 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="10dp"
+        android:background="#E9E7E7"
         android:orientation="vertical">
 
         <ImageView
@@ -23,7 +24,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/label_imc"/>
-
     </LinearLayout>
 
 </LinearLayout>
